@@ -19,5 +19,6 @@ I'm a Full Stack Developer, 3D Animator, CEO Cuvisoft, and founder of CubieGroup
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/balajicuvisoft/)
 - Email: [Email Address](mailto:balajibala76394@gmail.com)
+- Link Tree : [Bio Links](https://linktr.ee/BalajiCubieGroups).
 
 Feel free to reach out to me for collaboration opportunities, inquiries, or just to say hi! 😊
