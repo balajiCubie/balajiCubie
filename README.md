@@ -23,11 +23,6 @@ I'm a Full Stack Developer, 3D Animator, CEO Cuvisoft, and founder of CubieGroup
 
 Feel free to reach out to me for collaboration opportunities, inquiries, or just to say hi! 😊
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> </a>
