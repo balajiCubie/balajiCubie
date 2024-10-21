@@ -7,7 +7,7 @@ I'm a Full Stack Developer, 3D Animator, CEO Cuvisoft, and founder of CubieGroup
 - **Programming Languages:** Python, JavaScript, Java
 - **Web Development:** Django, MERN Stack (MongoDB, Express.js, React.js, Node.js), Spring Boot, WordPress
 - **3D Animation:** Blender, Unreal Engine
-- **Business Leadership:** CEO, Co-founder
+- **Business Leadership:** CEO, Founder
 
 ## Projects
 
