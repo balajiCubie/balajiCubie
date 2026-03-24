@@ -97,6 +97,11 @@ I believe the future belongs to **recursive systems**, **AI-native platforms**, 
 If you’re working on **AI, SaaS, automation, system architecture, or deep-tech research**, let’s collaborate.
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=balajiCubie&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
